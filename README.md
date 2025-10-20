@@ -1,5 +1,5 @@
 
-Tracking conferences/workshops related to AI in Earth and Planetary Sciences. *Please suggest additions via pull request or comment on this Gist.*
+Tracking conferences/workshops related to AI in Earth and Planetary Sciences. *Please suggest additions via pull request*
 
 
 ## 2026
