@@ -1,6 +1,18 @@
+# 🌍 AI in Earth & Planetary Sciences — Upcoming Conferences & Workshops
 
-Tracking conferences/workshops related to AI in Earth and Planetary Sciences. *Please suggest additions via pull request*
+A curated list of upcoming events focused on **Artificial Intelligence in Earth and Planetary Sciences**.  
+*Contributions are welcome — please suggest additions via pull request!*
 
+---
 
-## 2026
-📅 3–8 May 2026 | **EGU General Assembly 2026** | Abstract deadline: 16 January 2026 | Vienna, Austria 📎 [egu26.eu](https://www.egu26.eu)
+## 🗓️ 2026
+
+**📅 3–8 May 2026 — [EGU General Assembly 2026](https://www.egu26.eu)**  
+📍 Vienna, Austria  
+🧾 Abstract deadline: **16 January 2026**
+
+**📅 4–5 June 2026 — [AI in the Geosciences Conference](https://www.geolsoc.org.uk/events/ai-in-the-geosciences/)**  
+📍 London & Virtual  
+🧾 Abstract deadline: **4 January 2026**
+
+---
