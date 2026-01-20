@@ -7,7 +7,7 @@ A curated list of upcoming events focused on **Artificial Intelligence in Earth 
 
 ## 🗓️ 2026
 
-📅 18–21 May 2026 — Advancing Data Analytics & Machine Learning for Exploration Geophysics Workshop
+📅 18–21 May 2026 — [Advancing Data Analytics & Machine Learning for Exploration Geophysics Workshop](https://seg.org/calendar_events/advancing-data-analytics-machine-learning-for-exploration-geophysics/)
 📍 Houston, Texas, USA
 🧾 Abstract deadline: 2 February 2026
 
