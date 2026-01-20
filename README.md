@@ -1,4 +1,4 @@
-# 🌍 Upcoming Conferences & Workshops
+
 
 A curated list of upcoming events focused on **Artificial Intelligence in Earth and Planetary Sciences**.  
 *Contributions are welcome — please suggest additions via pull request!*
